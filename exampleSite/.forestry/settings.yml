@@ -25,6 +25,7 @@ sections:
 - type: document
   path: exampleSite/content/about/_index.md
   label: About
+  read_only: false
 - type: document
   path: exampleSite/content/contact/_index.md
   label: Contact
